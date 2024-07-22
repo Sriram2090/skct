@@ -28,6 +28,7 @@ const Signup =() => {
           <input></input> <br></br>
           <label>Password : </label>
           <input></input> <br></br>
+          <lable>Input : </lable>
         </form>
           <button onClick={handclick}>Submit</button> 
           </center>
